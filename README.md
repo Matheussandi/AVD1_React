@@ -1,6 +1,6 @@
 # Primeiros passos com criar aplicativo React
 
-Este projeto foi inicializado com  [Create React App].
+Este projeto foi inicializado com  Create React App.
 
 ## Scripts Disponíveis
 
@@ -9,19 +9,19 @@ No diretório do projeto, você pode executar:
 
 ### `yarn start`
 
-Executa o aplicativo no modo de desenvolvimento. \
+Executa o aplicativo no modo de desenvolvimento. 
 Abra [http://localhost:3000] para visualizá-lo no navegador.
 
-A página será recarregada se você fizer edições. \
+A página será recarregada se você fizer edições. 
 Você também verá quaisquer erros de lint no console.
 
 ### `yarn test`
 
-Inicia o executor de teste no modo de observação interativo. \
+Inicia o executor de teste no modo de observação interativo. 
 
 ### `yarn build`
 
-Compila o aplicativo para produção na pasta `build`. \
+Compila o aplicativo para produção na pasta `build`. 
 Ele agrupa corretamente o React no modo de produção e otimiza a construção para o melhor desempenho.
 
 ### `yarn eject`
