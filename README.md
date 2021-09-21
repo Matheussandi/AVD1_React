@@ -4,9 +4,11 @@ Este projeto foi inicializado com  Create React App.
 
 ## Scripts Disponíveis
 
+Antes de tudo crie uma pasta do projeto;
+
 No diretório do projeto, você pode executar:
 
-
+### `yarn create react-app (nomeDoProjeto)`
 ### `yarn start`
 
 Executa o aplicativo no modo de desenvolvimento. 
